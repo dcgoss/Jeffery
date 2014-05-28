@@ -15,11 +15,12 @@ Run the interface.py file.
 
 Current capabilities:
 =====================
-Addition, subtraction, multiplication, and division. Outputs floats.
-Examples: 
-what is 40 divided by 10
-==> 40.0 / 10.0 = 4.0
-10.1 multiplied by 10
+Addition, subtraction, multiplication, and division. Outputs floats.<br>
+Examples:<br>
+what is 40 divided by 10<br>
+==> 40.0 / 10.0 = 4.0<br>
+<br>
+10.1 multiplied by 10<br>
 ==> 10.1 * 10.0 = 101.0
 
 NOTE: Still in very early stages of development.
