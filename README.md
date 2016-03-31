@@ -3,7 +3,9 @@ Jeffery
 
 A personal assistant.
 
-.idea and PyCharm files are solely for my IDE, they have nothing to do with the actual application.
+Note
+----
+This was a test project from my early Python days that I keep on Github for my amusement. Please don't judge me.
 
 How it works:
 ------------
